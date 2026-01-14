@@ -1,0 +1,10 @@
+database:
+  host: "localhost"
+  port: 3306
+  database: "cosmetics"
+  username: "root"
+  password: "root"
+  ssl: false
+
+back-command: "none"
+lobby-server: false

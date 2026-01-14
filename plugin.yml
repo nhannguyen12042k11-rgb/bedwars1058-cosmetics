@@ -1,0 +1,15 @@
+main: me.mherzaqaryan.cosmetics.Cosmetics
+name: BedWars1058-Cosmetics
+author: Mher Zaqaryan
+version: 1.0-SNAPSHOT
+description: BedWars1058 Cosmetics Addon By Mher Zaqaryan
+
+softdepend:
+  - BedWars1058
+  - Vault
+  - Citizens
+  - PlaceholderAPI
+
+commands:
+  cosmetics:
+    description: Run to open cosmetics menu.
